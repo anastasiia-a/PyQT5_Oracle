@@ -1,0 +1,3 @@
+('Otdelochnuy', 0.258)
+('Design', None)
+('Stroitelnuy', 1.355)
